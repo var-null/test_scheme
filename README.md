@@ -15,11 +15,11 @@ https://neurotopic.ru/scheme/job_2/index.php
 
 ---
 
-*TON*:  
+**TON**:  
 `UQCyccBsue-1hMHRV7UwUqidqqBcBS7u8DWHnuW5ozweBXHs`
 
-USDT TON:  
+**USDT TON**:  
 `UQCyccBsue-1hMHRV7UwUqidqqBcBS7u8DWHnuW5ozweBXHs`
 
-USDT TRC20:  
+**USDT TRC20**:  
 `TVUEok3HiC4XFP83pa86ka1DUKXPNrk1C5`
