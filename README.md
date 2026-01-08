@@ -15,7 +15,7 @@ https://neurotopic.ru/scheme/job_2/index.php
 
 ---
 
-TON:  
+*TON*:  
 `UQCyccBsue-1hMHRV7UwUqidqqBcBS7u8DWHnuW5ozweBXHs`
 
 USDT TON:  
