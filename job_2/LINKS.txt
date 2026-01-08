@@ -1,0 +1,8 @@
+https://neurotopic.ru/scheme/job_1/kv_create.php
+neurotopic.ru/scheme/job_1/rect_create.php
+
+neurotopic.ru/scheme/job_1/kvs_paint.php
+neurotopic.ru/scheme/job_1/kvs_paint_points.php
+
+neurotopic.ru/scheme/job_1/rects_paint.php
+neurotopic.ru/scheme/job_1/rects_paint_points.php
